@@ -18,7 +18,7 @@ O guia aborda a instalação do Dev-C++, funções básicas da biblioteca padrã
 
 
 
-Pessoas começando em programação ou tendo o primeiro contato com C.
+Pessoas começando em programação ou tendo o primeiro contato e que queiram aprender fundamentos da linguagem C.
 
 
 
